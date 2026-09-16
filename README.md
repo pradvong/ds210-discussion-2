@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+SP
 
 ## Members
 
-- _nobody has signed on yet_
+Sarey
