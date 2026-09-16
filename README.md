@@ -8,9 +8,9 @@ cargo run
 
 ## S P
 
-_not chosen yet_
+SP
 
 ## Members
 Prad
 
-- _nobody has signed on yet_
+Sarey
